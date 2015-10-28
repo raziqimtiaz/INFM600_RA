@@ -49,8 +49,6 @@ Question
 --------
 Combining the focal dataset with either one of the other two datasets helps in answering the question: What role does population density of a community and its proximity to facilities(Sports and Pools) play in the utilisation of these faculties by the residents of Howard County? 
  
-The results will help the user of this dataset identify which facilities to target in terms of increasing resident engagement. All facilities which are closest to the most densely populated communities will be the primary target. On the other hand if results illustrate that some facilities are far away from a densely populated community then that will allow the CA to make necessary accommodations for these communities in future. As seen I think this dataset would help in effectively strategizing outreach efforts for CA facilties like swimming pools and sports fields.
-
 -----------------------------------------------------------------------------------------------------------------------------
 
 License
