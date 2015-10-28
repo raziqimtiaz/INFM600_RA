@@ -1,6 +1,6 @@
 INFM600 - Information Organization Assignment
 ---------------------------------------------
-This repository is created as part of Information Organization Assignment for INFM600
+This repository is created as part of the Information Organization Assignment for INFM600
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ The combination of Established communities and Sport fields datasets results in 
 Processing Documentation
 ------------------------
 
-Processing_Document.pdf file provides the step by step instruction to merge the Established communities dataset with the Sport fields dataset.
+Processing_Document.pdf file provides the step by step instruction to merge the Established Communities dataset with the Sport Fields dataset.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
