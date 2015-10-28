@@ -43,7 +43,8 @@ The results will help the user of this dataset identify which facilities to targ
 License
 -------
 
-The data in the INFM600 repository is distributed under a Creative Commons Attribution-ShareAlike 4.0 International License (see http://creativecommons.org/licenses/by-sa/4.0/)
+The data in raziqimtiaz/INFM600_RA repository is distributed under a Creative Commons Attribution-ShareAlike 4.0 International License (see http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 
 
