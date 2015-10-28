@@ -40,7 +40,7 @@ The combination of Established communities and Sport fields datasets results in 
 Processing Documentation
 ------------------------
 
-Processing_Document.txt file provides the step by step instruction to merge the Established communities dataset with the Sport fields dataset.
+Processing_Document.pdf file provides the step by step instruction to merge the Established communities dataset with the Sport fields dataset.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
