@@ -34,7 +34,7 @@ Citation
 --------
 
 
-The combination of Established communities and Sport fields datasets results in the new dataset named "Utilization of CA's sports facilities based on population density and proximity". This dataset is available in the github repositry raziqimtiaz/INFM600_RA and should be cited as Ali, Raziq. (2015). Utilization of CA's sports facilities based on population density and proximity [Data Set]. Available from https://github.com/raziqimtiaz/INFM600_RA
+The combination of Established Communities and Sport fields datasets results in the new dataset named "Utilization of CA's sports facilities based on population density and proximity". This dataset is available in the github repositry raziqimtiaz/INFM600_RA and should be cited as Ali, Raziq. (2015). Utilization of CA's sports facilities based on population density and proximity [Data Set]. Available from https://github.com/raziqimtiaz/INFM600_RA
 
 -----------------------------------------------------------------------------------------------------------------------------
 
