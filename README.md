@@ -1,8 +1,8 @@
 INFM600 - Information Organization Assignment
-
+---------------------------------------------
 
 This repository contains files related to the Information Organization Assignment
---------------------------------------------------------------------------------------------------------------------------
+
 Version
 
 
