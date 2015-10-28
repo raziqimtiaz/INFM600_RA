@@ -8,6 +8,8 @@ Version
 -------
 Version 1.0 (October 2015)
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 Description
 -----------
 Established_Communities.csv
@@ -26,15 +28,21 @@ Pools_ColumbiaAssociation.csv
 This dataset illustrates the location of all the Columbia Association owned swimming pools. On a map this will visually represent all the CA owned pools based on the geometric co-ordinates provided in the dataset.
 Citation: Howard County, Maryland. (2014). Pools – Columbia Association [Data set]. Retrieved from https://data.howardcountymd.gov/ Date accessed: 10/25/2015
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 Citation
 --------
 
 The combination of Established communities and Sport fields datasets results in the new dataset named "Utilization of CA's sports facilities based on population density and proximity". This dataset is available in the github repositry and should be cited as Ali, Raziq. (2015). Utilization of CA's sports facilities based on population density and proximity [Data Set]. Available from https://github.com/raziqimtiaz/INFM600_RA
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 Processing Documentation
 ------------------------
 
 Processing_Document.txt file provides the step by step instruction to merge the Established communities dataset with the Sport fields dataset.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 Question
 --------
@@ -42,14 +50,20 @@ Combining the focal dataset with either one of the other two datasets helps in a
  
 The results will help the user of this dataset identify which facilities to target in terms of increasing resident engagement.All facilities which are closest to the most densely populated communities will be the primary target. On the other hand if results illustrate that some facilities are far away from a densely populated community then that will allow the CA to make necessary accommodations for these communities in future.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 License
 -------
 
 The data in raziqimtiaz/INFM600_RA repository is distributed under a Creative Commons Attribution-ShareAlike 4.0 International License (see http://creativecommons.org/licenses/by-sa/4.0/)
 
+-----------------------------------------------------------------------------------------------------------------------------
 
+Author
+-------
+RAZIQ ALI
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 
