@@ -1,6 +1,6 @@
 INFM600 - Information Organization Assignment
 ---------------------------------------------
-This repository contains files related to the Information Organization Assignment
+This repository is created as part of Information Organization Assignment for INFM600
 
 -----------------------------------------------------------------------------------------------------------------------------
 
